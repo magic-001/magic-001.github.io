@@ -10,9 +10,9 @@ body{
     
 }
 .img1{
-    position: relative;
-    padding: 2% 0 0 2%;
+    position: absolute;
+    margin: 2% 0 0 2%;
     background: #68CDD5;
-    width: 88px;
-    height: auto;
+    width: 54px;
+    height: 54px;
 }
