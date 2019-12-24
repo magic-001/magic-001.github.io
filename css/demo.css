@@ -14,7 +14,7 @@ body{
 }
 .img1{
     position: relative;
-    margin: 0.8rem 0 0 0.8rem;
+    margin: 0.6rem 0 0 0.6rem;
     background: #68CDD5;
     width: 2.5rem;
     height: 2.5rem;
@@ -37,7 +37,7 @@ body{
     color: rgb(255, 255, 255);
 }
 .user{
-    margin-left: 10vw;
+    margin-left: 12vw;
     margin-right: auto;
     float: left;
     width: 22vw;
@@ -48,7 +48,7 @@ body{
 }
 .logo2{
 float: right;
-margin-right: 10vw;
+margin-right: 12vw;
 margin-left: auto;
 width: 22vw;
 text-align: center;
