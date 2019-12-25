@@ -24,6 +24,7 @@ img{
     background: #5AC0CE;
     width: 100vw;
     height: 3rem;
+    position: relative;
 }
 .left{
     padding: 1rem 0 11px 1rem;
@@ -31,7 +32,7 @@ img{
     font: 1em sans-serif;
     color: rgb(255, 255, 255);
     width: 25vw;
-    
+    position: absolute;
 }
 .mid{
     padding: 0.9rem 0 9px 0;
@@ -40,7 +41,8 @@ img{
     color: rgb(255, 255, 255);
     text-align: center;
     width: 50vw;
-    letter-spacing:2px
+    letter-spacing:2px;
+    margin-left: 25vw;
 }
 .right{
     padding: 1rem 1rem 11px 0rem;
@@ -49,7 +51,7 @@ img{
     color: rgb(255, 255, 255);
     width: 25vw;
     text-align: right;
-    
+    position: relative;
 }
 .img1{
     height: 25px;
@@ -95,5 +97,6 @@ img{
     height: 1rem;
     color: #5AC0CE;
     text-align: right;
+    text-decoration: underline;
     font: 0.8em sans-serif;
 }
