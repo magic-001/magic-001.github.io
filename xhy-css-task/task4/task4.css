@@ -1,0 +1,99 @@
+body{
+    background: #EFF0F4;
+}
+p{
+    display: inline;
+}
+span{
+    cursor: pointer;
+}
+input{
+    border: none;
+    float: left;
+    padding: 14px 0 14px 70.86px;
+    outline:none;
+    height: 55px;
+    width: 100vw;
+    font-size: 1rem;
+}
+img{
+    float: left;
+    
+}
+.header{
+    background: #5AC0CE;
+    width: 100vw;
+    height: 3rem;
+}
+.left{
+    padding: 1rem 0 11px 1rem;
+    float: left;
+    font: 1em sans-serif;
+    color: rgb(255, 255, 255);
+    width: 25vw;
+    
+}
+.mid{
+    padding: 0.9rem 0 9px 0;
+    float: left;
+    font: 1.1rem sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    width: 50vw;
+    letter-spacing:2px
+}
+.right{
+    padding: 1rem 1rem 11px 0rem;
+    float: right;
+    font: 1rem sans-serif;
+    color: rgb(255, 255, 255);
+    width: 25vw;
+    text-align: right;
+    
+}
+.img1{
+    height: 25px;
+    margin: 15px 19px ;
+    position: absolute;
+}
+.img2{
+    height: 33px;
+    width: 1px;
+    text-align: center;
+    line-height: 55px;
+    position: absolute;
+    margin-top: 11px;
+    margin-left: 54.86px;
+}
+.uname{
+    margin-top: 10px;
+    background: rgb(255, 255, 255);
+    width: 100vw;
+    height: 55px;
+    position: relative;
+}
+.ucode{
+    margin-top: 10px;
+    background: rgb(255, 255, 255);
+    width: 100vw;
+    height: 55px;
+    position: relative;
+}
+.subm{
+    margin-top: 10px;
+    background: #5AC0CE;
+    width: 100vw;
+    height: 55px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 53px;
+    
+}
+.found{
+    padding: 10px 10px 0 0;
+    width: 100vw;
+    height: 1rem;
+    color: #5AC0CE;
+    text-align: right;
+    font: 0.8em sans-serif;
+}
