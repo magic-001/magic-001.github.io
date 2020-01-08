@@ -108,7 +108,7 @@ body {
     content: "";
     position: absolute;
     left: 0;
-    top: -4px;
+    top: 6px;
     width: 2px;
     height: 35px;
     background: transparent url(icon1.png) -107px -59px no-repeat;
